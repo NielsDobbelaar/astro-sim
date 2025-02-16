@@ -18,6 +18,7 @@ A simple gravity simulation built with **p5.js**. Planets pull on asteroids, and
 - Real-time calculations for **acceleration in x and y directions**.
 - Visual polish with **glow effects and opacity changes** for some sprites for the planets, astroids, trails and explosions.
 - Some **basic physics calculations** for gravitational force and acceleration.
+- Runs at 120 FPS
 
 #### 🕰️ Built For Fun
 
